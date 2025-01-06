@@ -1,8 +1,6 @@
 @article{REPO240,
     author = "Zhang, Xue and Zhang, Xiaohan and Wang, Jiangtao and Ying, Jiacheng and Sheng, Zehua and Yu, Heng and Li, Chunguang and Shen, Hui-Liang",
-    doi = "10.1109/TNNLS.2024.3443455",
     journal = "IEEE Transactions on Neural Networks and Learning Systems",
-    keywords = "Pedestrians;Detectors;Feature extraction;Object detection;Noise measurement;Proposals;Lighting;Feature enhancement;multispectral feature fusion;RGB-T object detection;RGB-T pedestrian detection",
     number = "",
     pages = "1-15",
     title = "{TFDet: Target-Aware Fusion for RGB-T Pedestrian Detection}",
