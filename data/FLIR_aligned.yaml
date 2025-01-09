@@ -1,0 +1,19 @@
+
+# FLIR dataset https://www.kaggle.com/datasets/deepnewbie/flir-thermal-images-dataset
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+#train_rgb: /root/work/data/FLIR/visible/images/train
+#val_rgb: /root/work/data/FLIR/visible/images/val
+#train_ir: /root/work/data/FLIR/infrared/images/train
+#val_ir: /root/work/data/FLIR/infrared/images/val
+
+train: D:/work/workspace/pythonworkspace/data/FLIR_old/images/visible/train
+val: D:/work/workspace/pythonworkspace/data/FLIR_old/images/visible/val
+
+
+
+# number of classes
+nc: 3
+
+# class names
+names: ['person','car','bicycle']
